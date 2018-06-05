@@ -20,3 +20,11 @@ else grade < 70
     puts "You failed"
 end
 
+#When you put gets.chomp this gets input from in the terminal 
+
+a = chomp.gets.to_i
+if a > 10
+  puts "Your numner is greater than 10"
+else 
+  puts "Your number is not greater than 10"
+end 
