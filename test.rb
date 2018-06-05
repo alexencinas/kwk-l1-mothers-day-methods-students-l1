@@ -13,12 +13,12 @@
 #puts "Too young"
 #end 
 
-grade =50
-if grade >= 70
-  puts "You passed"
-else grade < 70
-    puts "You failed"
-end
+# grade =50
+# if grade >= 70
+#   puts "You passed"
+# else grade < 70
+#     puts "You failed"
+# end
 
 #When you put gets.chomp this gets input from in the terminal 
 
