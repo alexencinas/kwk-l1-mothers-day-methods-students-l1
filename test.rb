@@ -31,5 +31,10 @@
 
 if Time.now.hour >= 7 && Time.now.hour <= 11
   puts "Good Morning"
-elsif Time.now.hour >= 11 &&
+elsif Time.now.hour >= 11 && Time.now.hour <=17
+  puts "GOod afternoon"
+elsif TIme.now.hour >= 17 && Timr.now.hou <= 122
+  puts "good evening"
+else
+  puts "good night"
   
