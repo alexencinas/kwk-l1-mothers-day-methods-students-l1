@@ -22,7 +22,7 @@ end
 
 #When you put gets.chomp this gets input from in the terminal 
 
-a = chomp.gets.to_i
+a = gets.chomp.to_i
 if a > 10
   puts "Your numner is greater than 10"
 else 
