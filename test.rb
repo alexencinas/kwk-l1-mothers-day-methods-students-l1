@@ -22,9 +22,9 @@
 
 #When you put gets.chomp this gets input from in the terminal 
 
-a = gets.chomp.to_i
-if a > 10
-  puts "Your numner is greater than 10"
-else 
-  puts "Your number is not greater than 10"
-end 
+# a = gets.chomp.to_i
+# if a > 10
+#   puts "Your numner is greater than 10"
+# else 
+#   puts "Your number is not greater than 10"
+# end 
