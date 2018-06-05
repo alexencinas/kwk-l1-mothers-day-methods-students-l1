@@ -28,3 +28,8 @@
 # else 
 #   puts "Your number is not greater than 10"
 # end 
+
+if Time.now.hour >= 7 && Time.now.hour <= 11
+  puts "Good Morning"
+elsif Time.now.hour >= 11 &&
+  
